@@ -37,7 +37,7 @@ More in-depth examples can be found [here](https://github.com/salesforce-marketi
 
 Please checkout our [`.jshintrc`][2] file and follow the linting rules when contributing. In addition, this project uses **tabs** not spaces.
 
-## ChangeLog
+##  ChangeLog
 
 * **releases after v1 will have their notes in the 'releases' section**
 * **1.0.0** - 2014-11-13
